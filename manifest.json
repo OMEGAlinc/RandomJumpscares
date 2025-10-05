@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Random Jumpscares",
+  "Author": "OMEGAlinc",
+  "Version": "1.0.0",
+  "Description": "Adds custom jumpscares to Stardew Valley >:)",
+  "UniqueID": "OMEGAlinc.RandomJumpscares",
+  "EntryDll": "RandomJumpscares.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "" ],
+  "Dependencies": []
+}
